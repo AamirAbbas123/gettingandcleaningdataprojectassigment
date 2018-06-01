@@ -1,1 +1,95 @@
-Testing 
+
+
+This code book summarizes the resulting data fields in tidy.txt.
+
+
+
+Variables with descriptions are given below 
+
+
+subject             The ID of the test subject
+
+
+activity           The type of activity performed when the corresponding measurements were taken
+
+activity has 6 levels:
+             |   1. WALKING
+             |   2. WALKING_UPSTAIRS
+             |   3. WALKING_DOWNSTAIRS
+             |   4. SITTING
+             |   5. STANDING
+             |   6. LAYING
+             
+         
+ List of all the colums in the final dataset with names giving the explanation and the unit of measuremant 
+ 
+ timeBodyAccelerometer-mean()-X (radians per sec)
+timeBodyAccelerometer-mean()-Y (radians per sec)
+timeBodyAccelerometer-mean()-Z (radians per sec)
+timeBodyAccelerometer-std()-X (radians per sec)
+timeBodyAccelerometer-std()-Y (radians per sec)
+timeBodyAccelerometer-std()-Z (radians per sec)
+timeGravityAccelerometer-mean()-X (radians per sec)
+timeGravityAccelerometer-mean()-Y (radians per sec)
+timeGravityAccelerometer-mean()-Z (radians per sec)
+timeGravityAccelerometer-std()-X (radians per sec)
+timeGravityAccelerometer-std()-Y (radians per sec)
+timeGravityAccelerometer-std()-Z (radians per sec)
+timeBodyAccelerometerJerk-mean()-X (radians per sec)
+timeBodyAccelerometerJerk-mean()-Y (radians per sec)
+timeBodyAccelerometerJerk-mean()-Z (radians per sec)
+timeBodyAccelerometerJerk-std()-X (radians per sec)
+timeBodyAccelerometerJerk-std()-Y (radians per sec)
+timeBodyAccelerometerJerk-std()-Z (radians per sec)
+timeBodyGyroscope-mean()-X (radians per sec)
+timeBodyGyroscope-mean()-Y (radians per sec)
+timeBodyGyroscope-mean()-Z (radians per sec)
+timeBodyGyroscope-std()-X (radians per sec)
+timeBodyGyroscope-std()-Y (radians per sec)
+timeBodyGyroscope-std()-Z (radians per sec)
+timeBodyGyroscopeJerk-mean()-X (radians per sec)
+timeBodyGyroscopeJerk-mean()-Y (radians per sec)
+timeBodyGyroscopeJerk-mean()-Z (radians per sec)
+timeBodyGyroscopeJerk-std()-X (radians per sec)
+timeBodyGyroscopeJerk-std()-Y (radians per sec)
+timeBodyGyroscopeJerk-std()-Z (radians per sec)
+timeBodyAccelerometerMagnitude-mean() (radians per sec)
+timeBodyAccelerometerMagnitude-std() (radians per sec)
+timeGravityAccelerometerMagnitude-mean() (radians per sec)
+timeGravityAccelerometerMagnitude-std() (radians per sec)
+timeBodyAccelerometerJerkMagnitude-mean() (radians per sec)
+timeBodyAccelerometerJerkMagnitude-std() (radians per sec)
+timeBodyGyroscopeMagnitude-mean() (radians per sec)
+timeBodyGyroscopeMagnitude-std() (radians per sec)
+timeBodyGyroscopeJerkMagnitude-mean() (radians per sec)
+timeBodyGyroscopeJerkMagnitude-std() (radians per sec)
+frequencyBodyAccelerometer-mean()-X (hertz)
+frequencyBodyAccelerometer-mean()-Y (hertz)
+frequencyBodyAccelerometer-mean()-Z (hertz)
+frequencyBodyAccelerometer-std()-X (hertz)
+frequencyBodyAccelerometer-std()-Y (hertz)
+frequencyBodyAccelerometer-std()-Z (hertz)
+frequencyBodyAccelerometerJerk-mean()-X (hertz)
+frequencyBodyAccelerometerJerk-mean()-Y (hertz)
+frequencyBodyAccelerometerJerk-mean()-Z (hertz)
+frequencyBodyAccelerometerJerk-std()-X (hertz)
+frequencyBodyAccelerometerJerk-std()-Y (hertz)
+frequencyBodyAccelerometerJerk-std()-Z (hertz)
+frequencyBodyGyroscope-mean()-X (hertz)
+frequencyBodyGyroscope-mean()-Y (hertz)
+frequencyBodyGyroscope-mean()-Z (hertz)
+frequencyBodyGyroscope-std()-X (hertz)
+frequencyBodyGyroscope-std()-Y (hertz)
+frequencyBodyGyroscope-std()-Z (hertz)
+frequencyBodyAccelerometerMagnitude-mean() (hertz)
+frequencyBodyAccelerometerMagnitude-std() (hertz)
+frequencyBodyAccelerometerJerkMagnitude-mean() (hertz)
+frequencyBodyAccelerometerJerkMagnitude-std() (hertz)
+frequencyBodyGyroscopeMagnitude-mean() (hertz)
+frequencyBodyGyroscopeMagnitude-std() (hertz)
+frequencyBodyGyroscopeJerkMagnitude-mean() (hertz)
+frequencyBodyGyroscopeJerkMagnitude-std() (hertz)
+    
+
+  
+
